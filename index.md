@@ -1,12 +1,12 @@
 ---
 layout: workshop      # DON'T CHANGE THIS.
-carpentry: "FIXME"    # dc (must be either "lc" or "dc" or "swc")
-venue: "FIXME"        # Macquarie University (e.g., "Euphoric State University")
-address: "FIXME"      # Signadou Campus, Australian Catholic University, Watson, ACT (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
-country: "FIXME"      # au
-language: "FIXME"     # en
-latlng: "FIXME"       # -35.2458313,149.154389
-humandate: "FIXME"    # "14 December 2018"
+carpentry: "dc"    # dc (must be either "lc" or "dc" or "swc")
+venue: "Macquarie University"        #  (e.g., "Euphoric State University")
+address: "Signadou Campus, Australian Catholic University, Watson, ACT"      #  (e.g., "Room A, 123 Forth Street, Blimingen, Euphoria")
+country: "au"      # 
+language: "en"     # 
+latlng: "-35.2458313,149.154389"       # 
+humandate: "14 December 2018"    # ""
 humantime: "FIXME"    # "10:00 am - 4:30 pm"
 startdate: FIXME      # 2018-12-14
 enddate: FIXME        # 2018-12-14
